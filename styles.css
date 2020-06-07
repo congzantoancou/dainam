@@ -162,3 +162,7 @@ footer {
     position: absolute;
     bottom: 0;
 }
+
+.navbar {
+    border-radius: 0;
+}
